@@ -9,6 +9,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caetanominuzzo/terminal-to-here.git"
+  },
   "activationEvents": [],
   "main": "./extension.js",
   "contributes": {
