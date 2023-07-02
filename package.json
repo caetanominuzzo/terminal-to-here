@@ -1,0 +1,44 @@
+{
+  "name": "terminal-to-here",
+  "displayName": "terminal-to-here",
+  "description": "Quick terminal directory change",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+        {
+            "command": "terminal-to-here.cdToCurrentFile",
+            "title": "Terminal: Change the directory of the terminal to the current file's directory"
+        },
+        {
+            "command": "terminal-to-here.newTerminalInCurrentFile",
+            "title": "Terminal: Open a new terminal in the current file's directory"
+        },
+        {
+            "command": "terminal-to-here.navigateUp",
+            "title": "Terminal: Change the current terminal's directory to the parent directory"
+        }
+    ]},
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "yarn run lint"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.79.0",
+    "@types/glob": "^8.1.0",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "20.2.5",
+    "eslint": "^8.41.0",
+    "glob": "^8.1.0",
+    "mocha": "^10.2.0",
+    "typescript": "^5.1.3",
+    "@vscode/test-electron": "^2.3.2"
+  }
+}
