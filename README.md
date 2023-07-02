@@ -31,7 +31,7 @@ There are no known issues at this time. If you find a bug or have a feature requ
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 Initial release of "terminal-to-here". Provides two commands:
 

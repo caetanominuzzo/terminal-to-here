@@ -2,6 +2,7 @@
   "name": "terminal-to-here",
   "displayName": "terminal-to-here",
   "description": "Quick terminal directory change",
+  "publisher": "caetanominuzzo",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"

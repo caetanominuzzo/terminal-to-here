@@ -2,7 +2,7 @@
 
 All notable changes to the "terminal-to-here" extension will be documented in this file.
 
-## [1.0.0] - 2023-06-29
+## [0.0.1] - 2023-06-29
 
 ### Added
 - Initial release of "terminal-to-here".
