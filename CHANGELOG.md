@@ -2,6 +2,9 @@
 
 All notable changes to the "terminal-to-here" extension will be documented in this file.
 
+### [0.0.2] - 2023-07-03
+New extension icon.
+
 ## [0.0.1] - 2023-06-29
 
 ### Added

@@ -1,6 +1,6 @@
 # Terminal-To-Here Extension for Visual Studio Code
 
-This extension, "terminal-to-here", provides two useful commands for interacting with the integrated terminal in Visual Studio Code:
+This extension, "terminal-to-here", provides three useful commands for interacting with the integrated terminal in Visual Studio Code:
 
 - `cdToCurrentFile`: Change the directory of the current terminal to the directory of the currently open file.
 - `newTerminalInCurrentFile`: Create a new terminal with its working directory set to the directory of the currently open file.
@@ -31,9 +31,12 @@ There are no known issues at this time. If you find a bug or have a feature requ
 
 ## Release Notes
 
+### 0.0.2
+New extension icon.
+
 ### 0.0.1
 
-Initial release of "terminal-to-here". Provides two commands:
+Initial release of "terminal-to-here". Provides three commands:
 
 - `cdToCurrentFile`
 - `newTerminalInCurrentFile`
