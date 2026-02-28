@@ -46,3 +46,7 @@ Initial release of "terminal-to-here". Provides three commands:
 ---
 
 **Enjoy!**
+## See Also
+
+- [sso-cli](https://pypi.org/project/sso-cli/) — CLI tool to fetch Keycloak/OIDC tokens, built for developers and agentic AI workflows.
+- [Agent State](https://agentstate.tech/) — an open standard that gives AI agents persistent memory, tools, and organizational context across sessions via a shared Git repository.
